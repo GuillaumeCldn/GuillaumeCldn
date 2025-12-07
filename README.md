@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guillaume Claudon
+- 👋 Hi, I’m Guillaume Claudon!
 - 🇫🇷 I'm French.
 - 🇬🇧🇩🇪 I speak English and German as well.
 - ✈️ I'm a student at ENAC, the French Civil Aviation University.
